@@ -4,7 +4,7 @@
 import random
 
 # rediscluster imports
-from rediscluster.crc import crc16
+from crc import crc16
 
 # 3rd party imports
 import redis
